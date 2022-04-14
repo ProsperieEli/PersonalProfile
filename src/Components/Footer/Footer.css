@@ -1,0 +1,11 @@
+img {
+    height: 20px;
+    position: absolute;
+    left: -10px;
+}
+
+.footer-stuff {
+    position: absolute;
+    right: 20px;
+    bottom: 100px;
+}
